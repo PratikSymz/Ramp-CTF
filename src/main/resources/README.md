@@ -1,0 +1,1 @@
+List of all 7 letter words is courtesy of [@powerlanguage](https://github.com/powerlanguage/word-lists/blob/master/common-7-letter-words.txt)
